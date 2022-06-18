@@ -8,3 +8,7 @@
 6. Data type in pythno [Youtube Video](https://youtu.be/qOIVD1v5mZM)
 7. Numbers in python [Youtube Video](https://youtu.be/bjgSI3_UppU)
 8. Type conversion [Youtube Video](https://youtu.be/bBzBdVW_s7k)
+9. User Inpute in python [Youtube Video](https://youtu.be/cPH7Zwct_WA)
+10. String in python [Youtube Video](https://youtu.be/F9yJcmi1Xlk)
+11. String slicing in python [Youtube Video](https://youtu.be/CxnZus1anEA)
+12. Modify string in python [Youtube Video](https://youtu.be/AZwcFQqiuXk)
