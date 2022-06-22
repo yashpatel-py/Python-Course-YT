@@ -13,4 +13,5 @@
 11. String slicing in python [Youtube Video](https://youtu.be/CxnZus1anEA)
 12. Modify string in python [Youtube Video](https://youtu.be/AZwcFQqiuXk)
 13. String concatenation and string format in python [Youtube Video](https://youtu.be/54FfX7M7Xos)
-14. string escape character in python [Youtube Video](https://youtu.be/VWHICczSCcI)
+14. String escape character in python [Youtube Video](https://youtu.be/VWHICczSCcI)
+15. String methods part 2 in python [Youtube Video](https://youtu.be/gMfFN8RT5TE)
