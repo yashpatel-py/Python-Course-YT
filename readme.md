@@ -16,4 +16,5 @@
 14. String escape character in python [Youtube Video](https://youtu.be/VWHICczSCcI)
 15. String methods part 2 in python [Youtube Video](https://youtu.be/gMfFN8RT5TE)
 16. Arithmetic operator in python [Youtube](https://youtu.be/_Ub8RBt52aI)
-17. Assignment operators in python [Youtube](https://youtu.be/mTkopZpZy1Y)
+17. Assignment operator in python [Youtube](https://youtu.be/mTkopZpZy1Y)
+18. Comparison operator in python [Youtube](https://youtu.be/pHcMH_iPQvw)
