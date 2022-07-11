@@ -4,10 +4,14 @@ dict1 = {
     'Hobby': 'coding'
 }
 
-# update()
-# dict1.update({'youtube': "Django World"})
+# pop()
+# dict1.pop('age')
 # print(dict1)
 
-# change value in dict
-dict1.update({'age': 18})
+# popitem()
+# dict1.popitem()
+# print(dict1)
+
+# del()
+del dict1['Hobby']
 print(dict1)
