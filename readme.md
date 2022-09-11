@@ -1,5 +1,9 @@
 # Topics Covered
 
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKspdO30Fea8ZCxwg-0svOg)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.youtube.com/channel/UCKspdO30Fea8ZCxwg-0svOg)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/download)
+
 | No.  | Course name | Link |
 | ---- | ----------- | ---- |
 | 1.   | Introduction to python | [Youtube](https://youtu.be/nl3h8O0nYT0) |
